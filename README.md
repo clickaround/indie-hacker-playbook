@@ -18,7 +18,6 @@ Claude skills that guide you through 9 stages of indie hacker journey — from i
 
 MIT — clickaround8@gmail.com
 
-
 ## Latest posts
 
-- [2026-04-25] New: http://168.107.56.106/clickaround/blog/2026-04-25-indie-hacker-playbook.html
+- [2026-04-27] http://168.107.56.106/clickaround/blog/2026-04-27-indie-hacker-playbook.html
