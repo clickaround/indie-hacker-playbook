@@ -24,6 +24,9 @@ MIT — clickaround8@gmail.com
 - [2026-04-30] New: http://168.107.56.106/clickaround/blog/2026-04-30-indie-hacker-playbook.html
 
 
+- [2026-05-04] New: http://168.107.56.106/clickaround/blog/2026-05-04-indie-hacker-playbook.html
+
+
 ## Latest posts
 
-- [2026-05-04] New: http://168.107.56.106/clickaround/blog/2026-05-04-indie-hacker-playbook.html
+- [2026-05-12] New: http://168.107.56.106/clickaround/blog/2026-05-12-indie-hacker-playbook.html
