@@ -12,6 +12,9 @@
 - [2026-06-04] New: http://168.107.56.106/clickaround/blog/2026-06-04-indie-hacker-playbook.html
 
 
+- [2026-06-07] New: http://168.107.56.106/clickaround/blog/2026-06-07-indie-hacker-playbook.html
+
+
 ## Latest posts
 
-- [2026-06-07] New: http://168.107.56.106/clickaround/blog/2026-06-07-indie-hacker-playbook.html
+- [2026-06-10] New: http://168.107.56.106/clickaround/blog/2026-06-10-indie-hacker-playbook.html
